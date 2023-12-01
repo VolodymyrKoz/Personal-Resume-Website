@@ -1,0 +1,11 @@
+/*Main Color #E8B005*/
+/*Hover Color #222222*/
+
+.header{
+    background-color: #E8B005;
+    display: flex;
+}
+.nav-row{
+    display: flex;
+    
+}
